@@ -1,0 +1,18 @@
+pwd(present working directory/print working directory)-shows our location
+ls-used to list the contents of a directory
+mkdir(make directory)-it is used to create a folder
+cd(change directory)-it allows you to move between directories
+touch-it is used create a file in folder/directory
+nano-it opens the nano text editor ,on that we can create and save files
+cat-it is used to display the content whatever we have written in nano
+clear-it is used to clear all the content
+cd ..-it used to navigate back from the directory
+history-it can show the whole history means the commands we have used
+rmdir(remove directory)-it is used remove/delete the folder
+rm -it can be applied only when the folder doesnt contain any files in it
+rm-rf  -it can applied when the folder contain files inside it.it can delete the entire directory
+mv-it iused for both rename and to move the file
+whoami-it shows username 
+collaboration
+version history
+

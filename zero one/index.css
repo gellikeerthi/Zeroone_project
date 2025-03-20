@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0%
+    padding : 0%;
+   
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(68, 15, 227);
+    height:100vh;
+    color: white;
+}
+.container img{
+    width: 30%;
+    height: 50%;
+}
+.container a{
+    text-decoration: none;
+    color: beige;
+    font-size: 25px;
+}
+p{
+    font-size: 25px;
+}

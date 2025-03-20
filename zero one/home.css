@@ -1,0 +1,30 @@
+*{
+   box-sizing: border-box; 
+   margin: 0px;
+   padding: 0px;
+}
+.table table,td,tr,th{
+    border: 2px dotted black;
+    border-collapse:collapse;
+    padding:10px;
+    font-size: 20px;
+}
+.table{
+margin-top: 100px;
+margin-left: 20px;
+width: 90%;
+height: 300px;
+border: 2px solid blue;}
+th{
+    background-color: black;
+    color: white;
+}
+button{
+    width: 70px;
+    height: 30px;
+    margin: 50px;
+}
+buttton :hover{
+    background-color: white;
+    color: black;
+}
